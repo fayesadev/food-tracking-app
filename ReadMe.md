@@ -1,6 +1,6 @@
 # Nutritionship
 
-A space-themed customizable food tracking app that is personalized to the user based on their fitness goals. Users can toggle between different modes of tracking and dashboard viewing.
+A space-themed customizable food tracking app that is personalized to the user based on their fitness goals. Users can toggle between different modes of tracking and dashboard viewing. Built with React.
 
 ## Final Product
 
